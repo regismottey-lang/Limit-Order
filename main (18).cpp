@@ -1,4 +1,4 @@
-// Project 8: Limit order book + price-time priority matching engine.
+// Project 1: Limit order book + price-time priority matching engine.
 // Build: g++ -std=c++20 -O2 -Wall -Wextra project8_order_book.cpp -o orderbook
 // Upgrade path for the resume: swap std::map/std::list for flat price arrays,
 // intrusive lists and a pool allocator (see comments), then re-measure.
